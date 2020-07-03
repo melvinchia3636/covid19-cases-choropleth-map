@@ -1,6 +1,6 @@
 # covid19-cases-choropleth-map
 
-# MODULE USED
+**MODULE USED
 ```
 matplotlib
 pandas
