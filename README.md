@@ -10,3 +10,4 @@ bs4
 requests
 re
 ```
+MAKE SURE THAT YOUR PYTHON HAVE THOSE MODULE.
