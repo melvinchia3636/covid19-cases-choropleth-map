@@ -10,4 +10,4 @@ bs4
 requests
 re
 ```
-These are the modules required in order to make your code run properly.
+These modules are required to make your code run properly.
