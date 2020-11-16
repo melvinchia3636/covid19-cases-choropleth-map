@@ -10,4 +10,4 @@ bs4
 requests
 re
 ```
-MAKE SURE THAT YOUR PYTHON HAVE THOSE MODULE.
+These are the modules required in order to make your code run properly.
